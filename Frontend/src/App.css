@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Manrope", sans-serif;
+}
+
+.option-rounded {
+  border-radius: 0.5rem; /* Adjust the radius as needed */
+}
+
+.ReactFlagsSelect-module_selectBtn__19wW7{
+  border: thin 0.5px !important;
+  border-radius: 0.5rem !important;
+  border-color: lightgray !important;
+}
